@@ -16,6 +16,11 @@ composer install
 npm install
 ```
 
+
+```sh
+npm run dev
+```
+
 ```sh
 php artisan migrate
 ```
